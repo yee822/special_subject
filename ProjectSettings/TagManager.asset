@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Props
+  - Enemy
+  - ' Weapons'
+  - Door
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - MapRange
+  - Enemy
+  - Weapons
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ' Vision'
+    uniqueID: 1423016921
+    locked: 0
+  - name: ' Prospect'
+    uniqueID: 2832574357
+    locked: 0
+  - name: MediumShotEnemy
+    uniqueID: 2787361853
+    locked: 0
+  - name: MediumShotPlayer
+    uniqueID: 548182057
+    locked: 0
