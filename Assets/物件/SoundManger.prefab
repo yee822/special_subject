@@ -55,8 +55,8 @@ MonoBehaviour:
   jumpAudioSource: {fileID: 648627935260613389}
   DashAudioSource: {fileID: 648627935260613388}
   AttackAudioSource: {fileID: 648627935260613387}
-  move: {fileID: 8300000, guid: 9e9c62084b22ffc4b9f760a13c9e30d0, type: 3}
-  jump: {fileID: 8300000, guid: 43e1a5cef53c34d4791102f9197f2c78, type: 3}
+  move: {fileID: 0}
+  jump: {fileID: 0}
   rum: {fileID: 0}
   hurt: {fileID: 0}
   die: {fileID: 0}
